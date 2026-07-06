@@ -1,1 +1,1 @@
-@ Sample Jupyter Notebook used to test GitHub Integration
+@ Sample Jupyter notebook is used to test GitHub Integration
